@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamlesh324078
-- 👀 I’m interested in Data, I would like to work on PL/SQL , Oracle Forms , Reports etc.
+- 👀 I’m interested in Database, I would like to work/contribute on PL/SQL , Oracle Forms , Reports, Python etc.
 - 🌱 I’m currently learning Python.
 
 <!---
